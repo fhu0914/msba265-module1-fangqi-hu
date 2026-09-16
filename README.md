@@ -28,13 +28,13 @@ The dataset contains 678,013 policy records and 12 features related to insurance
 Open PowerShell or the VS Code terminal and run:
 
 ```powershell
-git clone https://github.com/fhu0914/msba265_module1.git
+git clone https://github.com/fhu0914/msba265-module1-fangqi-hu.git
 ```
 
 Move into the project directory:
 
 ```powershell
-cd msba265_module1
+cd msba265-module1-fangqi-hu
 ```
 
 ## Step 2 - Create a Virtual Environment
